@@ -19,3 +19,7 @@
 - usefulcount  (cantidad de usuarios del medicamento).
 
 
+### Applicación
+https://tpintegrador.herokuapp.com/
+
+
