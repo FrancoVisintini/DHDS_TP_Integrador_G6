@@ -15,6 +15,7 @@
 - condition (afección que padece el usuario del medicamento)
 - review (opinión del usuario del medicamento)
 - rating (calificación de 1 al 10 que refleja la opinión del usuario del medicamento, siendo 1 la puntuación más baja)
-- date (fecha del comentario)usefulcount  (cantidad de usuarios del medicamento).
+- date (fecha del comentario)
+- usefulcount  (cantidad de usuarios del medicamento).
 
 
